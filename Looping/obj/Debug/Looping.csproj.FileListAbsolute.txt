@@ -1,0 +1,6 @@
+D:\Trening C#\Looping\Looping\bin\Debug\Looping.exe.config
+D:\Trening C#\Looping\Looping\bin\Debug\Looping.exe
+D:\Trening C#\Looping\Looping\bin\Debug\Looping.pdb
+D:\Trening C#\Looping\Looping\obj\Debug\Looping.exe
+D:\Trening C#\Looping\Looping\obj\Debug\Looping.pdb
+D:\Trening C#\Looping\Looping\obj\Debug\Looping.csprojAssemblyReference.cache
